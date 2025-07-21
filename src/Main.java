@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Работа с GitHub!");
 
+        System.out.println("Первый коммит");
+
     }
 }

@@ -31,5 +31,7 @@ public class lesson1 {
 
         int ostatok = 4199 % 13 + 4199 % 14 + 4199 % 15 + 4199 % 16 + 4199 % 17 + 4199 % 19;
         System.out.println(ostatok);
+
+        //ааааа
     }
 }
